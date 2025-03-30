@@ -1,0 +1,11 @@
+# ignore all files
+*
+!.gitignore
+
+# hypr
+!hypr/
+!hypr/**/*
+
+# kitty
+!kitty/
+!kitty/kitty.conf
